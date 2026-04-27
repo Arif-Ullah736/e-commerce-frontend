@@ -1,0 +1,11 @@
+import "./App.css";
+
+function App() {
+  return (
+    <>
+      <div className="text-green-600">this is div</div>
+    </>
+  );
+}
+
+export default App;
